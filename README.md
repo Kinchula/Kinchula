@@ -9,8 +9,10 @@ I'm a third year computer science student.
   - Database
   - Sofwtware Engginering
   - Computer architecture
+  - Cloud Computing
   - English   
 
+Currently, I am very interested in data engineering, cloud computing and DevOps.
 
 ## My Skills Include
 
@@ -44,13 +46,9 @@ I'm a third year computer science student.
     <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     <a href="mailito:matiksec23@proton.me">
     <img alt="Static Badge" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
-    <a href="https://bsky.app/profile/matikuhn23.bsky.social">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white">
     <a href="https://x.com/matias_kuhn23">
     <img alt="Static Badge" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
     <a href="https://www.reddit.com/user/Kinchu23">
-    <img alt="Static Badge"src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white">
-    <a href="https://matikuhn23.substack.com/">
     <img alt="Static Badge" src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719">
     <a href="">
     <img alt="Static Badge" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
