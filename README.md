@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matías Kühn</h1> 
 
-I'm 21 years old and I'm a **student of Computer Science**💻📚 at [FAMAF](https://www.famaf.unc.edu.ar/academica/grado/licenciatura-en-ciencias-de-la-computaci%C3%B3n/) in Argentina.
+I'm 23 years old and I'm a **student of Computer Science**💻📚 at [FAMAF](https://www.famaf.unc.edu.ar/academica/grado/licenciatura-en-ciencias-de-la-computaci%C3%B3n/) in Argentina.
 
 I'm a third year computer science student.
 - 🔭 I'm currently studying:
