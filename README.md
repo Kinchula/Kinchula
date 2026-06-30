@@ -4,15 +4,12 @@ I'm 21 years old and I'm a **student of Computer Science**💻📚 at [FAMAF](ht
 
 I'm a third year computer science student.
 - 🔭 I'm currently studying:
-	- Operating Systems
   - Networks and Distributed Systems 
   - Discrete Mathematics
-  - Programming Paradigms 
-  - C++ and Python
-  - Bash Scripting
-  - Network Programming with C
+  - Database
+  - Sofwtware Engginering
+  - Computer architecture
   - English   
-- I'm very interested in **cybersecurity**.
 
 
 ## My Skills Include
